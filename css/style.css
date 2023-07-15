@@ -118,7 +118,7 @@ body {
     height: 100%;
     width: 50%;
     border-radius: inherit;
-    transition: width 0.3s ease;
+    transition: width 0.31s ease;
 }
 
 .pass-indicator#weak::before {

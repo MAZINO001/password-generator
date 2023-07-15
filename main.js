@@ -75,7 +75,7 @@ const copyPassword = () => {
   setTimeout(() => {
     copyIcon.classList.remove(`fa-square-check`);
     copyIcon.classList.add(`fa-copy`);
-  }, 1500);
+  }, 1400);
 };
 
 const updateSlider = () => {
